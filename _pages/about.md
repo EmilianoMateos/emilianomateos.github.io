@@ -243,20 +243,6 @@ redirect_from:
       <p class="focus-card-label">OPTICA-UNAM</p>
       <p class="focus-card-text">...</p>
     </div>
-    
-    <div class="focus-card">
-      <p class="focus-card-label">Medical Imaging</p>
-      <p class="focus-card-text">Accelerating MRI acquisition with wavelet scattering transforms while preserving diagnostic fidelity.</p>
-    </div>
-    <div class="focus-card">
-      <p class="focus-card-label">Differentiable Models</p>
-      <p class="focus-card-text">Simulation-based inference and neural fields for high-dimensional physical field reconstruction.</p>
-    </div>
-    <div class="focus-card">
-      <p class="focus-card-label">Teaching</p>
-      <p class="focus-card-text">Co-teaching <a href="https://diegoviillalba.github.io/almacenamienes-y-mineria-de-datos/">data mining</a> at the Facultad de Ciencias, UNAM — connecting theory with applied ML.</p>
-    </div>
-  </div>
 </div>
 
 <p class="section-rule">Research Interests</p>
