@@ -231,7 +231,7 @@ redirect_from:
   <p class="role-line">Physics</p>
 
   <p>
-    I am a physicist at UNAM, actually interested in electromagnetism.
+    I am a physicists student at UNAM, actually interested in electromagnetism.
   </p>
 
   <p>
