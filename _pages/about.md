@@ -258,7 +258,10 @@ redirect_from:
     Originally from Mexico City. I am involved in <strong>learning the bachelor's degree in physics</strong>.
   </p>
   <p>
-    I like meeting people studying or working on <strong>science</strong> — any of its branches. Music is also one of my favorite hobbies, and I enjoy collaborating with people in that industry.
+    I like meeting people studying or working on <strong>science</strong> — any of its branches.
+  </p>
+  <p>
+   Besides, music is one of my favorite hobbies, as well as photography, and I enjoy spending time and collaborating with people in those pastimes.
   </p>
 </div>
 
