@@ -255,15 +255,15 @@ redirect_from:
 
 <div class="personal-block">
   <p>
-    Originally from Mexico City. I am involved in <strong>learning the basics of physics</strong>.
+    Originally from Mexico City. I am involved in <strong>learning the bachelor's degree in physics</strong>.
   </p>
   <p>
-    I like meeting people studying or working on <strong>science</strong> — any of its branches.
+    I like meeting people studying or working on <strong>science</strong> — any of its branches. Music is also one of my favorite hobbies, and I enjoy collaborating with people in that industry.
   </p>
 </div>
 
 <div class="photo-block">
-  <img src='/images/about_me.png' alt='Emiliano Mateos'>
+  <img src='images/collage_emiliano.jpg' alt='Emiliano Mateos'>
 </div>
 
 <p class="cta-line">
