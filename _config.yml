@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Diego Villalba"
+title                    : "Emiliano Mateos"
 title_separator          : "-"
-name                     : &name "Diego Villalba"
-description              : &description "BSc. Physics student, AI, ML and Astrophysics/cosmology enthusiast, astrophotographer and science communicator"
-url                      : https://diegoviillalba.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Emiliano Mateos"
+description              : &description "BSc. Physics student at Faculty of Sciences, National Autonomous University of Mexico (UNAM)"
+url                      : https://emilianomateos.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DiegoViillalba/DiegoViillalba.github.io"
+repository               : "EmilianoMateos/emilianomateos.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "DiegoViillalba/DiegoViillalba.github.io"
 author:
   # Biographic information
   avatar           : "perfil.jpeg"
-  name             : "Diego Villalba"
+  name             : "Jorge Emiliano García Mateos"
   pronouns         : # example: "she/her"  
-  bio: "Physicist and machine learning researcher bridging academia and industry, focused on data-driven modeling, scientific computing, large-scale cosmological simulations."
+  bio: "Physicist at Faculty of Sciences, National Autonomous University of Mexico (UNAM). I’m currently in my fifth semester of university (2027 - 1)"
   location         : "Mexico City, Mexico"
   employer         : "UNAM"
   uri              : "https://web.fciencias.unam.mx/directorio/105501"
-  email            : "diego.villalba@ciencias.unam.mx" 
+  email            : "jorgeemilianogams@ciencias.unam.mx" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "diegoviillalba"
+  github           : "EmilianoMateos"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "diegoi_io"
+  instagram        : #"jrgemiliano"
   lastfm           : # Username
-  linkedin         : "diego-antonio-villalba-gonzález-8983a121b"
+  linkedin         : "www.linkedin.com/in/emiliano-mateos"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
