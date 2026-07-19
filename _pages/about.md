@@ -227,22 +227,23 @@ redirect_from:
 <div class="about-wrapper">
 
 <div class="about-intro">
-  <p class="name-line">Diego <span>Villalba</span></p>
-  <p class="role-line">Physics · Machine Learning · Scientific Computing</p>
+  <p class="name-line">Emiliano <span>Mateos</span></p>
+  <p class="role-line">Physics</p>
 
   <p>
-    I am a physicist working at the intersection of machine learning and scientific computing. My research focuses on cosmology, computational astrophysics, and the data-driven modeling of physical systems — with the goal of developing AI methods that are scalable, interpretable, and physically grounded.
+    I am a physicist at UNAM, actually interested in electromagnetism.
   </p>
 
   <p>
-    I am particularly drawn to the idea that machine learning and physics are not separate disciplines, but complementary frameworks that can be unified to address complex scientific, technological, and societal challenges. This perspective guides both my research and teaching.
+   I am participated in a student chapter of optics.
   </p>
 
   <div class="focus-cards">
     <div class="focus-card">
-      <p class="focus-card-label">Cosmological ML</p>
-      <p class="focus-card-text">Displacement-field reconstruction and super-resolution of N-body simulations using neural implicit representations.</p>
+      <p class="focus-card-label">OPTICA-UNAM</p>
+      <p class="focus-card-text">...</p>
     </div>
+    
     <div class="focus-card">
       <p class="focus-card-label">Medical Imaging</p>
       <p class="focus-card-text">Accelerating MRI acquisition with wavelet scattering transforms while preserving diagnostic fidelity.</p>
@@ -256,54 +257,31 @@ redirect_from:
       <p class="focus-card-text">Co-teaching <a href="https://diegoviillalba.github.io/almacenamienes-y-mineria-de-datos/">data mining</a> at the Facultad de Ciencias, UNAM — connecting theory with applied ML.</p>
     </div>
   </div>
-
-  <p>
-    I have developed these methods at the <a href="https://dipc.ehu.eus/" target="_blank">Donostia International Physics Center (DIPC)</a>, where I contributed to the CODECS project on cosmological simulation compression, and at the <a href="https://www.unam.mx/" target="_blank">Universidad Nacional Autónoma de México (UNAM)</a>, where my ongoing work spans astrophysical super-resolution and interpretable MRI reconstruction.
-  </p>
-
-  <p class="focus-card-label" style="margin-top:1.4rem; margin-bottom:0.6rem;">Applied domains</p>
-  <div class="applications-row">
-    <div class="app-card">
-      <p class="app-card-title">Medical Imaging</p>
-      <p class="app-card-text">Accelerating MRI acquisition while maintaining diagnostic image quality.</p>
-    </div>
-    <div class="app-card">
-      <p class="app-card-title">Industry</p>
-      <p class="app-card-text">OCR-based data processing pipelines and document intelligence systems.</p>
-    </div>
-  </div>
 </div>
 
 <p class="section-rule">Research Interests</p>
 
 <div class="interests-grid">
-  <div class="interest-item">Machine learning for scientific simulations</div>
-  <div class="interest-item">Simulation-based inference</div>
-  <div class="interest-item">Cosmological simulations & large-scale structure</div>
-  <div class="interest-item">Differentiable and physics-informed modeling</div>
-  <div class="interest-item">Machine learning for medical imaging</div>
-  <div class="interest-item">High-performance & parallel computing</div>
-  <div class="interest-item">Neural implicit representations</div>
-  <div class="interest-item">Generalizable methods for real-world systems</div>
+  <div class="interest-item">Python for numerical methods in physics</div>
 </div>
 
 <p class="section-rule">Personal</p>
 
 <div class="personal-block">
   <p>
-    Originally from Mexico City. Alongside research, I am actively involved in <strong>teaching, mentoring, and science communication</strong>, and I enjoy helping students build strong foundations in physics and data science.
+    Originally from Mexico City. I am involved in <strong>learning the basics of physics</strong>.
   </p>
   <p>
-    I am always interested in connecting with people working on <strong>machine learning, scientific computing, or data-driven science</strong> — both in academia and industry.
+    I like meeting people studying or working on <strong>science</strong> — any of its branches.
   </p>
 </div>
 
 <div class="photo-block">
-  <img src='/images/about_me.png' alt='Diego Villalba'>
+  <img src='/images/about_me.png' alt='Emiliano Mateos'>
 </div>
 
 <p class="cta-line">
-  Explore my <a href="/publications/">research work</a>, <a href="/portfolio/">projects</a>, and <a href="/cv/">CV</a> — or <a href="mailto:diego.villalba@ciencias.unam.mx">reach out</a> if you'd like to collaborate.
+  Explore my <a href="/publications/">research work</a>, <a href="/portfolio/">projects</a>, and <a href="/cv/">CV</a> — or <a href="mailto:jorgeemilianogams@ciencias.unam.mx">reach out</a> if you'd like to collaborate.
 </p>
 
 </div>
