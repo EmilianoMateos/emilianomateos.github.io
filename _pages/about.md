@@ -231,16 +231,15 @@ redirect_from:
   <p class="role-line">Physics</p>
 
   <p>
-    I am a physicists student at UNAM, actually interested in electromagnetism.
-  </p>
+    I am a physics student at UNAM, currently interested in electromagnetism.
 
   <p>
-   I am participated in a student chapter of optics.
+    I participate in an optics student chapter.
   </p>
 
   <div class="focus-cards">
     <div class="focus-card">
-      <p class="focus-card-label">OPTICA-UNAM</p>
+      <p class="focus-card-label">Student chapter</p>
       <p class="focus-card-text">...</p>
     </div>
 </div>
@@ -255,14 +254,14 @@ redirect_from:
 
 <div class="personal-block">
   <p>
-    Originally from Mexico City. I am involved in <strong>learning the bachelor's degree in physics</strong>.
+    When I'm not studying physics, I enjoy exploring other passions that keep me grounded:
   </p>
-  <p>
-    I like meeting people studying or working on <strong>science</strong> — any of its branches.
-  </p>
-  <p>
-   Besides, music is one of my favorite hobbies, as well as photography, and I enjoy spending time and collaborating with people in those pastimes.
-  </p>
+  <ul>
+    <li><strong>Science Outreach:</strong> My first real dive into science communication was at the <em>IV Congress of Experimental Physics</em> (Faculty of Sciences, UNAM), and it sparked a genuine interest in sharing science with others.</li>
+    <li><strong>The Game & Math:</strong> I grew up playing soccer, and now as a physics student, I find it absolutely mind-blowing to analyze the flow of a match through the lens of graph theory!</li>
+    <li><strong>Music & Community:</strong> I love getting together with people to create, play, or just have passionate conversations about music.</li>
+    <li><strong>Photography:</strong> <em>Fun fact:</em> My favorite way to decompress and clear my mind is simply going out for a walk to "hunt" for cool photographs in the city.</li>
+  </ul>
 </div>
 
 <div class="photo-block">
