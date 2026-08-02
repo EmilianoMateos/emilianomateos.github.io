@@ -271,5 +271,3 @@ redirect_from:
 <p class="cta-line">
   Explore my <a href="/publications/">research work</a>, <a href="/portfolio/">projects</a>, and <a href="/cv/">CV</a> — or <a href="mailto:jorgeemilianogams@ciencias.unam.mx">reach out</a> if you'd like to collaborate.
 </p>
-
-</div>
